@@ -1,4 +1,4 @@
-const tree = {
+module.exports  = {
   feature: "moth_count",
   value: 2.5,
   lte_branch: {

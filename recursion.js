@@ -19,13 +19,3 @@ for (let i = 0; i < data.length; i++) {
 }
 
 console.log('resultado = ', jorge);
-
-// console.log(run_tree(tree, data[0]));
-
-
-objeto = {"key":'value', 'jorge':{'jorgito':'jorgelvis'}}
-
-console.log(objeto.key)
-console.log(objeto['key'])
-console.log(objeto.jorge.jorgito)
-console.log(objeto['jorge']['jorgito'])
